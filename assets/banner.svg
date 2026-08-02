@@ -1,0 +1,27 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(980 40) rotate(120) scale(420 320)">
+      <stop stop-color="#7C3AED" stop-opacity="0.14"/>
+      <stop offset="1" stop-color="#7C3AED" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="120" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#7C3AED"/>
+      <stop offset="100%" stop-color="#3B82F6"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="260" fill="#0D1117"/>
+  <rect width="1200" height="260" fill="url(#glow)"/>
+
+  <rect x="0.5" y="0.5" width="1199" height="259" rx="16" fill="none" stroke="#21262D" stroke-width="1"/>
+
+  <text x="80" y="98" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="13" letter-spacing="3" fill="#8B949E">AI ENGINEER — FULL-STACK DEVELOPER</text>
+
+  <text x="78" y="150" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="42" font-weight="600" fill="#F0F6FC">Khileshwar Dewangan</text>
+
+  <rect x="80" y="172" width="64" height="3" rx="1.5" fill="url(#accent)">
+    <animate attributeName="opacity" values="0.7;1;0.7" dur="6s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="80" y="200" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="16" fill="#8B949E">Building intelligent software with precision and clarity.</text>
+</svg>
