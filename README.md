@@ -2,10 +2,8 @@
 <img src="./assets/banner.svg" width="100%" alt="Khileshwar Dewangan — AI Engineer, Full-Stack Developer"/>
 </div>
 
-<p align="center">
 AI Engineer and Full-Stack Developer building intelligent, production-grade software.<br/>
 Focused on machine learning, clean interfaces, and systems that hold up under real use.
-</p>
 
 <br/>
 
