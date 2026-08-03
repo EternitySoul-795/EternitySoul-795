@@ -42,65 +42,6 @@ I'm Khileshwar Dewangan. I work across machine learning, web development, and au
 
 <br/>
 
-## Featured Projects
-
-<table align="center">
-<tr>
-<td width="33%" valign="top">
-
-**Lucy AI**
-<sub>Conversational AI assistant for low-latency dialogue.</sub>
-<br/><sub>`Python` `LangChain`</sub>
-<br/>[View →](https://github.com/EternitySoul-795/lucy-ai)
-
-</td>
-<td width="33%" valign="top">
-
-**Eternity Portfolio**
-<sub>Immersive 3D portfolio with minimal, high-contrast UI.</sub>
-<br/><sub>`Three.js` `JavaScript`</sub>
-<br/>[View →](https://github.com/EternitySoul-795/Echo-space-3D)
-
-</td>
-<td width="33%" valign="top">
-
-**UniCard Engine**
-<sub>Card-generation engine for ID and certificate rendering.</sub>
-<br/><sub>`TypeScript` `Node.js`</sub>
-<br/>[View →](https://github.com/EternitySoul-795/unicard-engine)
-
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-
-**WhatsApp AI**
-<sub>LLM-driven automation for context-aware messaging.</sub>
-<br/><sub>`Node.js` `OpenAI API`</sub>
-<br/>[View →](https://github.com/EternitySoul-795/whatsapp-ai)
-
-</td>
-<td width="33%" valign="top">
-
-**Fire Fighting Robot**
-<sub>Autonomous robotics platform for early fire detection.</sub>
-<br/><sub>`C++` `Embedded Systems`</sub>
-<br/>[View →](https://github.com/EternitySoul-795/AI-for-Public-Safety)
-
-</td>
-<td width="33%" valign="top">
-
-**AI Automation Projects**
-<sub>Applied machine-learning and automation experiments.</sub>
-<br/><sub>`Python` `PyTorch`</sub>
-<br/>[View →](https://github.com/EternitySoul-795/ai-automation-projects)
-
-</td>
-</tr>
-</table>
-
-<br/>
-
 ## Contact
 
 <p align="center">
