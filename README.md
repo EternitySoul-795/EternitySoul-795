@@ -37,9 +37,7 @@ I'm Khileshwar Dewangan. I work across machine learning, web development, and au
 ## Overview
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=EternitySoul-795&show_icons=true&theme=dark&hide_border=false&border_color=21262D&bg_color=0D1117&title_color=F0F6FC&icon_color=7C3AED&text_color=8B949E" width="32%" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=EternitySoul-795&theme=dark&hide_border=false&border=21262D&background=0D1117&ring=7C3AED&fire=3B82F6&currStreakLabel=F0F6FC&sideLabels=8B949E&dates=8B949E" width="32%" alt="Contribution Streak"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EternitySoul-795&layout=donut&theme=dark&hide_border=false&border_color=21262D&bg_color=0D1117&title_color=F0F6FC&text_color=8B949E&langs_count=6" width="32%" alt="Top Languages"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=EternitySoul-795&theme=dark&hide_border=false&border=21262D&background=0D1117&ring=7C3AED&fire=3B82F6&currStreakLabel=F0F6FC&sideLabels=8B949E&dates=8B949E" width="50%" alt="Contribution Streak"/>
 </p>
 
 <br/>
